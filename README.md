@@ -24,7 +24,7 @@ The project uses a structured data model with fact and dimension tables:
 ## 📸 Dashboard Preview
 
 ### Global Overview
-![Overview](images/overview.png)
+![Overview](dashboard_world_data.png)
 
 ### Environment Dashboard
 ![Environment](images/environment.png)
