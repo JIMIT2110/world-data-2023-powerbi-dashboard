@@ -36,7 +36,7 @@ The project uses a structured data model with fact and dimension tables:
 ![Economy](ECONOMIC_EMP_WORLD_DATA.png)
 
 ### Data Model
-![Data Model](images/data-model.png)
+![Data Model](table_world_data.png)
 
 ## 🚀 Key Insights
 - Identified countries with highest CO2 emissions
