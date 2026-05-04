@@ -33,7 +33,7 @@ The project uses a structured data model with fact and dimension tables:
 ![Health](HEALTH_WROLD_DATA.png)
 
 ### Economy Dashboard
-![Economy](images/economy.png)
+![Economy](ECONOMIC_EMP_WORLD_DATA.png)
 
 ## 🚀 Key Insights
 - Identified countries with highest CO2 emissions
